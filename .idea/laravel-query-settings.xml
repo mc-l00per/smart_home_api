@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LaravelQuerySettings">
+    <option name="filterDataSources" value="true" />
+    <option name="filteredDataSources">
+      <set>
+        <option value="92021d17-1c25-4dea-bca6-3a4295fefb0b&lt;-/lq/-&gt;smart_home" />
+      </set>
+    </option>
+  </component>
+</project>

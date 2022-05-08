@@ -1,0 +1,3 @@
+GET https://smarthome.local/api/register
+Accept: application/json
+Content-Type: application/json
